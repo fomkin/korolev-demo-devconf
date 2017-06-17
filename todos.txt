@@ -1,0 +1,5 @@
+[_] Visit DevConf
+[_] Try Korolev
+[_] Move frontend to the server
+[_] Drink vodka
+[_] Pat the cat
